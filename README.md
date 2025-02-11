@@ -10,7 +10,7 @@ This project demonstrates a Movie Recommender System built using machine learnin
 - Interactive user interface for movie search and recommendations
 
 ## Dataset
-The system uses publicly available movie datasets such as the [MovieLens Dataset](https://grouplens.org/datasets/movielens/) which contains movie ratings, titles, genres, and more.
+The system uses publicly available movie datasets such as the [MovieLens Dataset](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k?fbclid=IwAR2MpWrWpcw2QNCv_FZg2l0sjBh9xAvhrqtnZBO9K-QS6PHI1aHkdB6qLa0) which contains movie ratings, titles, genres, and more.
 
 ## Installation
 
